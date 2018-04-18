@@ -5,7 +5,7 @@ use yii\helpers\Html;
 /* @var $this yii\web\View */
 /* @var $model backend\models\Refagama */
 
-$this->title = 'Update Refagama: {nameAttribute}';
+$this->title = 'Referensi Agama';
 $this->params['breadcrumbs'][] = ['label' => 'Refagamas', 'url' => ['index']];
 $this->params['breadcrumbs'][] = ['label' => $model->idAgama, 'url' => ['view', 'id' => $model->idAgama]];
 $this->params['breadcrumbs'][] = 'Update';

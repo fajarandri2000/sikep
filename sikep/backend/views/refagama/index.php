@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel backend\models\Refagamasearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Refagamas';
+$this->title = 'Referensi Agama';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="refagama-index">
